@@ -146,6 +146,10 @@
                         "title": data.path,
                         "src": "data:image/svg+xml;"+data.encoding+","+data.content,
                       })
+                      
+                      $(".data-link", model).attr({
+                        "href": data.download_url
+                      })
 
                       $(".data-title", model).text(data.path)
                       $(".data-name", model).text(data.name)
