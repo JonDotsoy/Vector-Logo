@@ -148,7 +148,7 @@
                       })
                       
                       $(".data-link", model).attr({
-                        "href": data.download_url
+                        "href": data.html_url
                       })
 
                       $(".data-title", model).text(data.path)
@@ -190,7 +190,7 @@
                 .append(
                   $("<div></div>")
                     .append($("<div class=\"data-name\"></div>"))
-                    .append($("<div class=\"data-title\"></div>"))
+                    // .append($("<div class=\"data-title\"></div>"))
                     .append($("<div></div>")
                       .append($("<a class=\"data-link\"></a>")
                         .append($("<div class=\"data-title\"></div>"))
