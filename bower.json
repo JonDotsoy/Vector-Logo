@@ -1,0 +1,16 @@
+{
+  "name": "vector-logo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jonDotsoy/vector-logo",
+  "authors": [
+    "Jon Dotsoy <hi@jon.soy>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
