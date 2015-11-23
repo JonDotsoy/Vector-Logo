@@ -8,13 +8,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="207.7663"
-   height="217.42143"
-   viewBox="0 0 207.7663 217.42143"
+   width="167.7663"
+   height="177.42143"
+   viewBox="0 0 167.7663 177.42143"
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="angular.svg">
+   sodipodi:docname="Angular.svg">
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -40,13 +40,13 @@
      inkscape:window-height="715"
      id="namedview17"
      showgrid="false"
-     fit-margin-left="20"
-     fit-margin-top="20"
-     fit-margin-right="20"
-     fit-margin-bottom="20"
-     inkscape:zoom="2.6089062"
-     inkscape:cx="185.45101"
-     inkscape:cy="109.45003"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.7681286"
+     inkscape:cx="127.91717"
+     inkscape:cy="89.450026"
      inkscape:window-x="-8"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
@@ -62,7 +62,7 @@
      id="Page-1"
      sketch:type="MSPage"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="translate(11.8076,7.9713986)">
+     transform="translate(-8.1924,-12.028601)">
     <g
        id="shield-large"
        sketch:type="MSArtboardGroup">
